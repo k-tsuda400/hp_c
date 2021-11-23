@@ -1,0 +1,6 @@
+http://shopping2.gmobb.jp/htdmnr/www08/np/tsp/tsp_3opt01.html
+
+3optは定義だけ見ると良く分からないけど、図にするとわかりやすい
+とにかく全パターン繋ぎなおしてみるというイメージ
+
+実装方法はまだわかってないけど
